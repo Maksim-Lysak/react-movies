@@ -5,7 +5,10 @@ export class Header extends Component {
 		return (
 			<nav className='green darken-3'>
 				<div className='nav-wrapper px1'>
-					<a href='#' className='brand-logo'>
+					<a
+						href='https://maksim-lysak.github.io/react-movies'
+						className='brand-logo'
+					>
 						Movies
 					</a>
 					<ul id='nav-mobile' className='right hide-on-med-and-down'>
